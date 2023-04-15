@@ -1,1 +1,7 @@
 # TradingApp
+
+Run TradingApp.java to run the whole project
+
+….cd /Miniproject/project/src	
+	javac TradingApp.java
+		java TradingApp
